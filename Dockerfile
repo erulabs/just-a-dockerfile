@@ -1,3 +1,3 @@
 FROM nginx
 
-RUN "hello world"
+RUN echo "hello world"
